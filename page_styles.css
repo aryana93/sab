@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "ibm plex sans";
+    font-weight: normal;
+    font-style: normal;
+    src: url(fonts/IBMPlexSans-Regular.ttf);
+    }
+@font-face {
+    font-family: "ibm plex sans";
+    font-weight: bold;
+    font-style: normal;
+    src: url(fonts/IBMPlexSans-Bold.ttf);
+    }
+@font-face {
+    font-family: "ibm plex sans";
+    font-weight: normal;
+    font-style: italic;
+    src: url(fonts/IBMPlexSans-Italic.ttf);
+    }
+@font-face {
+    font-family: "ibm plex sans";
+    font-weight: bold;
+    font-style: italic;
+    src: url(fonts/IBMPlexSans-BoldItalic.ttf);
+    }

@@ -1,0 +1,292 @@
+ @import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+ 
+.bold {
+  font-weight: bold
+}
+
+.boldi {
+  font-style: italic;
+  font-weight: bold
+}
+
+.Bible-Text,
+.Bible-Text1,
+.Bible-Text2,
+.Bible-Textc {
+  color: black;
+  /*background: navy;*/
+  text-align: justify;
+  text-indent: 0;
+  margin: 0;
+  padding: 1rem 1rem 1rem 1rem;
+}
+
+.calibre {
+  height: auto;
+  width: auto
+}
+
+.calibre1 {
+  display: block;
+  line-height: 1.2
+}
+
+.calibre2 {
+  border-collapse: collapse;
+  border-spacing: 0;
+  display: table;
+  margin-bottom: 0;
+  margin-top: 1.5em;
+  text-indent: 0
+}
+
+.calibre3 {
+  display: table-row;
+  vertical-align: middle;
+  border: currentColor none 0;
+  margin: 0
+}
+
+.calibre4 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: top;
+  padding: 1px;
+  border: currentColor none 0;
+  margin: 0
+}
+
+.calibre5 {
+  display: block;
+  text-align: justify;
+  text-indent: 0.75em;
+  margin: 0
+}
+
+.calibre6 {
+  height: auto;
+  line-height: 1.2;
+  width: auto
+}
+
+.calibre7 {
+  display: block;
+  list-style-type: disc;
+  margin-bottom: 1em;
+  margin-right: 0;
+  margin-top: 1em
+}
+
+.calibre8 {
+  display: list-item;
+  margin: 0.5rem 0;
+}
+
+.calibre9 {
+  display: block
+}
+
+.calibre10 {
+  display: block;
+  list-style-type: decimal;
+  margin-bottom: 1em;
+  margin-right: 0;
+  margin-top: 1em
+}
+
+.center {
+  display: block;
+  text-align: center;
+  text-indent: 0;
+  margin: 5em 0 0;
+}
+
+.center1 {
+  display: block;
+  text-align: center;
+  text-indent: 0;
+  margin: 0
+}
+
+.center2 {
+  display: block;
+  text-align: center;
+  text-indent: 0;
+  margin: 1.25em 0 0
+}
+
+.center3 {
+  display: block;
+  text-align: center;
+  text-indent: 0;
+  margin: 0.25em 0 0
+}
+
+.contradict {
+  display: list-item;
+  margin-bottom: 0.5em
+}
+
+.drop-cap,
+.drop-cap1 {
+  /*float: left;*/
+  /*font-size: 3.25rem;*/
+  /*margin-bottom: -0.2em;*/
+  /*margin-right: 0.15em;*/
+  /*margin-top: -0.1em*/
+}
+
+.italic {
+  font-style: italic;
+  font-style: normal;
+}
+
+.main-title {
+  display: block;
+  text-align: center;
+  text-indent: 0;
+  margin: 4em 0 0
+}
+
+.nohyph {
+  adobe-hyphenate: none;
+  display: block;
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0 5pt
+}
+/*
+.noindent {
+  display: block;
+  text-align: justify;
+  text-indent: 0;
+  margin: 2em 0 0
+}
+
+.noindent1 {
+  display: block;
+  text-align: justify;
+  text-indent: 0;
+  margin: 0.25em 0 0
+}
+
+.noindent2 {
+  display: block;
+  text-align: justify;
+  text-indent: 0;
+  margin: 1.25em 0 0
+}
+
+.noindent3 {
+  display: block;
+  text-align: justify;
+  text-indent: 0;
+  margin: 0.65em 0 0
+}
+*/
+.smallcapb {
+  font-weight: bold
+}
+
+.smalltoc {
+  display: block;
+  font-weight: bold;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0;
+  margin: 1em 0 0
+}
+
+.smalltoc1 {
+  display: block;
+  font-weight: bold;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0;
+  margin: 0;
+  font-size: 1.5rem;
+  color: navy;
+}
+
+.subhb,
+.subhb2a,
+.chaph,
+.chaph1 {
+  font-size: 150%;
+  font-weight: bold;
+  text-align: center;
+  margin: 1rem 0;
+  padding: 1rem;
+  border: 10px double black;
+  border-radius: 1rem;
+  color: black;
+}
+
+.chaph,
+.chaph1 {
+  font-size: 200%
+}
+
+.sup {
+  line-height: normal;
+  vertical-align: 4px
+}
+
+.tabl {
+  display: block;
+  text-align: left;
+  text-indent: 0;
+  margin: 0
+}
+
+.tablr {
+  display: block;
+  text-align: right;
+  text-indent: 0;
+  margin: 0
+}
+
+body {
+  font-family: "Nunito";
+  font-size: 1.5rem;
+  font-weight: normal;
+  background: white;
+  color: black;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+}
+
+.nohyph {
+  max-width: 45rem;
+  margin: auto;
+  margin-bottom: 20rem;
+}
+
+p {
+  margin: 1rem 0;
+  text-align: justify;
+  line-height: 150%;
+}
+
+.Notes-Text,
+.Notes-Text1,
+.noindent,
+.noindent1,
+.noindent2,
+.noindent3 {
+  padding: 1rem;
+}
+
+.Notes-Text .bold,
+.Notes-Text1 .bold {
+  display: none;
+}
+
+.Notes-Text,
+.Notes-Text1 {
+  border: 2px solid black;
+  border-radius: 0.5rem;
+}
